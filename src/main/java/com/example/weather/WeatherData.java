@@ -1,3 +1,5 @@
+package com.example.weather;
+
 public class WeatherData {
     private double temperature;
     private boolean isCelsius = true; // New field
